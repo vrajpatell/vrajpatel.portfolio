@@ -2,9 +2,9 @@ import React from 'react';
 
 const Experience = () => {
   return (
-    <section id="experience">
+    <section id="experience" className="container">
       <h2>Work Experience</h2>
-      <div>
+      <div className="light-background">
         <h3>Software Engineer AI</h3>
         <h4>CVS Health, Scottsdale, AZ (AUG 2023 - PRESENT)</h4>
         <ul>
@@ -14,7 +14,7 @@ const Experience = () => {
           <li>Managed API and testing service deployment on Azure Function App, employing Kafka and Azure Service Bus for efficient data streaming and leveraging GitLab for streamlined version control and deployment.</li>
         </ul>
       </div>
-      <div>
+      <div className="light-background">
         <h3>Software Development Engineer</h3>
         <h4>Warner Bros. Discovery, Seattle, WA (OCT 2021 - JUN 2023)</h4>
         <ul>
@@ -24,7 +24,7 @@ const Experience = () => {
           <li>Actively involved in SDLC processes, incident management using Splunk VictorOps, and system administration on Windows/Linux platforms.</li>
         </ul>
       </div>
-      <div>
+      <div className="light-background">
         <h3>Software Development Engineer</h3>
         <h4>Slalom, Seattle, WA (MAR 2021 - OCT 2021)</h4>
         <ul>
@@ -34,7 +34,7 @@ const Experience = () => {
           <li>Enhanced SDLC and quality with Jenkins automation and Grafana dashboards.</li>
         </ul>
       </div>
-      <div>
+      <div className="light-background">
         <h3>Data Analyst</h3>
         <h4>TakeOff Educational Consultant, Vadodara, India (MAY 2017 - JUL 2018)</h4>
         <ul>

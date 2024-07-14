@@ -10,12 +10,12 @@ const Projects = () => {
   }, []);
 
   return (
-    <section id="projects">
+    <section id="projects" className="container">
       <h2>GitHub Projects</h2>
       <ul>
         {projects.map(project => (
           <li key={project.id}>
-            <a href={project.url}>{project.name}</a> - {project.description}
+            <a href={project.url} target="_blank" rel="noopener noreferrer">{project.name}</a> - {project.description}
           </li>
         ))}
       </ul>
