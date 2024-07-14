@@ -4,7 +4,8 @@ const Projects = () => {
   const [projects, setProjects] = useState([]);
 
   useEffect(() => {
-    fetch('/data/projects.json')
+    const baseURL = process.env.PUBLIC_URL || '';
+    fetch(`${baseURL}/data/projects.json`)
       .then(response => response.json())
       .then(data => setProjects(data));
   }, []);
