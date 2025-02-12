@@ -1,177 +1,176 @@
 [
-    {
-      "id": 1,
-      "name": "Advance-Database-Systems",
-      "description": "A comprehensive exploration of advanced database systems, focusing on optimizing performance, ensuring data integrity, and implementing complex queries and data structures. This project includes detailed case studies and hands-on exercises to master advanced database concepts.",
-      "url": "https://github.com/vrajpatell/Advance-Database-Systems"
-    },
-    {
-      "id": 2,
-      "name": "Basic-Python-Flask-App",
-      "description": "A simple Python web application built with Flask, demonstrating basic web development concepts and API creation. This project is an excellent starting point for learning about server-side scripting and web frameworks.",
-      "url": "https://github.com/vrajpatell/Basic-Python-Flask-App"
-    },
-    {
-      "id": 3,
-      "name": "Best-README-Template",
-      "description": "An awesome README template to jumpstart your projects! This template provides a structured format to document your project details, making it easier for others to understand and contribute.",
-      "url": "https://github.com/vrajpatell/Best-README-Template"
-    },
-    {
-      "id": 4,
-      "name": "Cloud-Computing-IBM-cloud-Earthquake-Dataset",
-      "description": "An analysis of earthquake data using IBM Cloud services, demonstrating cloud computing capabilities for handling large datasets and performing complex data analysis.",
-      "url": "https://github.com/vrajpatell/Cloud-Computing-IBM-cloud-Earthquake-Dataset"
-    },
-    {
-      "id": 5,
-      "name": "Comparsion-of-all-sorting-algorithms",
-      "description": "A comparative study of various sorting algorithms, highlighting their performance, efficiency, and use cases. This project includes detailed explanations and implementations in different programming languages.",
-      "url": "https://github.com/vrajpatell/Comparsion-of-all-sorting-algorithms"
-    },
-    {
-      "id": 6,
-      "name": "ConsultAddDjango",
-      "description": "A Django project that involves creating various tasks to understand the framework's functionality and applications.",
-      "url": "https://github.com/vrajpatell/ConsultAddDjango"
-    },
-    {
-      "id": 7,
-      "name": "CRUD-Nodejs-Express-mongoDB",
-      "description": "CRUD operations are performed using Node.js and Express.js with MongoDB Atlas. This project showcases the creation, retrieval, updating, and deletion of data in a MongoDB database through a RESTful API.",
-      "url": "https://github.com/vrajpatell/CRUD-Nodejs-Express-mongoDB"
-    },
-    {
-      "id": 8,
-      "name": "CRUD_Product_details_Nodejs_MongoDB",
-      "description": "CRUD application for Product details using Node.js, Express.js, and MongoDB. This project demonstrates how to manage product data through a full-stack application.",
-      "url": "https://github.com/vrajpatell/CRUD_Product_details_Nodejs_MongoDB"
-    },
-    {
-      "id": 9,
-      "name": "Data-Visualization-using-javascript-and-python-flask",
-      "description": "Cloud Computing for Data Visualization using JavaScript and Python Flask. This project involves creating visual representations of data hosted on the cloud.",
-      "url": "https://github.com/vrajpatell/Data-Visualization-using-javascript-and-python-flask"
-    },
-    {
-      "id": 10,
-      "name": "demo.py",
-      "description": "A demonstration Python script that showcases various programming concepts and techniques.",
-      "url": "https://github.com/vrajpatell/demo.py"
-    },
-    {
-      "id": 11,
-      "name": "Firebase-Facebook-Google-Email-Authentication",
-      "description": "A project demonstrating authentication using Firebase along with Facebook and Google. It showcases how to integrate multiple authentication providers in a single application.",
-      "url": "https://github.com/vrajpatell/Firebase-Facebook-Google-Email-Authentication"
-    },
-    {
-      "id": 12,
-      "name": "FlaskSteganography",
-      "description": "Steganography with Python Flask implementation. This project involves hiding messages within images using the Flask framework.",
-      "url": "https://github.com/vrajpatell/FlaskSteganography"
-    },
-    {
-      "id": 13,
-      "name": "Huffman-Code-With-MinHeap-C",
-      "description": "An implementation of Huffman coding using MinHeap in C. This project showcases the process of data compression using Huffman coding.",
-      "url": "https://github.com/vrajpatell/Huffman-Code-With-MinHeap-C"
-    },
-    {
-      "id": 14,
-      "name": "Insertion-sort-in-C-language",
-      "description": "A project implementing the Insertion Sort algorithm in C. It demonstrates the step-by-step process of sorting an array using this algorithm.",
-      "url": "https://github.com/vrajpatell/Insertion-sort-in-C-language"
-    },
-    {
-      "id": 15,
-      "name": "IntegerToRoman",
-      "description": "A simple utility project that converts integers to Roman numerals. This project is useful for understanding numeral conversion algorithms.",
-      "url": "https://github.com/vrajpatell/IntegerToRoman"
-    },
-    {
-      "id": 16,
-      "name": "K-Mean-clustering-Python-Flask",
-      "description": "Amazon Web Service used as cloud with Python Flask to perform K-Mean clustering of the MinNow.csv dataset. This project demonstrates cloud-based machine learning and data processing.",
-      "url": "https://github.com/vrajpatell/K-Mean-clustering-Python-Flask"
-    },
-    {
-      "id": 17,
-      "name": "Mandelbrot-Set-with-Parallel-Programming-Using-OpenMP",
-      "description": "An implementation of the Mandelbrot set using parallel programming with OpenMP. This project demonstrates how to leverage parallelism to optimize computational tasks.",
-      "url": "https://github.com/vrajpatell/Mandelbrot-Set-with-Parallel-Programming-Using-OpenMP"
-    },
-    {
-      "id": 18,
-      "name": "Monte-Carlo-Implementation-Using-OpenMP-in-Parallel-Programming",
-      "description": "A Monte Carlo simulation implemented using OpenMP for parallel programming. This project showcases the use of parallel computing to enhance simulation efficiency.",
-      "url": "https://github.com/vrajpatell/Monte-Carlo-Implementation-Using-OpenMP-in-Parallel-Programming"
-    },
-    {
-      "id": 19,
-      "name": "Object-oriented-concepts-node",
-      "description": "A project demonstrating object-oriented programming concepts in Node.js. It includes examples of inheritance, encapsulation, polymorphism, and more.",
-      "url": "https://github.com/vrajpatell/Object-oriented-concepts-node"
-    },
-    {
-      "id": 20,
-      "name": "Observer-Pattern-Software-Pattern",
-      "description": "An implementation of the Observer design pattern. This project illustrates how to create and use the Observer pattern to manage event-driven programming.",
-      "url": "https://github.com/vrajpatell/Observer-Pattern-Software-Pattern"
-    },
-    {
-      "id": 21,
-      "name": "Online-Advising-RPC-MASTER",
-      "description": "An online advising system using RPC. This project provides a platform for students and advisors to interact and manage advising sessions.",
-      "url": "https://github.com/vrajpatell/Online-Advising-RPC-MASTER"
-    },
-    {
-      "id": 22,
-      "name": "PostFix-expression-using-Stack-implemented-using-Queue",
-      "description": "A project demonstrating the evaluation of postfix expressions using a stack and implemented using a queue. This project is useful for understanding stack and queue data structures.",
-      "url": "https://github.com/vrajpatell/PostFix-expression-using-Stack-implemented-using-Queue"
-    },
-    {
-      "id": 23,
-      "name": "Python_Assignments_Vraj",
-      "description": "A collection of Python assignments showcasing various programming concepts and techniques.",
-      "url": "https://github.com/vrajpatell/Python_Assignments_Vraj"
-    },
-    {
-      "id": 24,
-      "name": "Quick-sort-implementation-in-Parallel-programming-with-OpenMP",
-      "description": "An implementation of the Quick Sort algorithm using parallel programming with OpenMP. This project demonstrates how parallelism can be applied to sorting algorithms.",
-      "url": "https://github.com/vrajpatell/Quick-sort-implementation-in-Parallel-programming-with-OpenMP"
-    },
-    {
-      "id": 25,
-      "name": "State-Patterns-ATM-Systems",
-      "description": "A project demonstrating the use of state patterns in ATM systems. This project showcases the design and implementation of state machines in software development.",
-      "url": "https://github.com/vrajpatell/State-Patterns-ATM-Systems"
-    },
-    {
-      "id": 26,
-      "name": "Task",
-      "description": "ConsultAdd Python Task 1: Python Basics. This project includes various exercises and tasks to understand basic Python programming.",
-      "url": "https://github.com/vrajpatell/Task"
-    },
-    {
-      "id": 27,
-      "name": "Tree-Sum-Parallel-Programming",
-      "description": "A project demonstrating the sum calculation of tree data structures using parallel programming techniques.",
-      "url": "https://github.com/vrajpatell/Tree-Sum-Parallel-Programming"
-    },
-    {
-      "id": 28,
-      "name": "vrajpatell",
-      "description": "My personal repository containing various scripts, projects, and experiments.",
-      "url": "https://github.com/vrajpatell/vrajpatell"
-    },
-    {
-      "id": 29,
-      "name": "webpage-to-pdf-file-download",
-      "description": "A Python script that converts web pages into PDF files and downloads them. This project is useful for automating the process of saving web content as PDF.",
-      "url": "https://github.com/vrajpatell/webpage-to-pdf-file-download"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Advance-Database-Systems",
+    "description": "This project explores advanced database systems, focusing on performance optimizations, indexing, and architectural design to handle complex queries and data structures.",
+    "url": "https://github.com/vrajpatell/Advance-Database-Systems"
+  },
+  {
+    "id": 2,
+    "name": "Basic-Python-Flask-App",
+    "description": "A starter web application built using Flask that demonstrates the fundamentals of API development and basic web framework patterns.",
+    "url": "https://github.com/vrajpatell/Basic-Python-Flask-App"
+  },
+  {
+    "id": 3,
+    "name": "Best-README-Template",
+    "description": "A highly detailed and customizable README template designed to help developers effectively document their projects with clarity and structure.",
+    "url": "https://github.com/vrajpatell/Best-README-Template"
+  },
+  {
+    "id": 4,
+    "name": "Cloud-Computing-IBM-cloud-Earthquake-Dataset",
+    "description": "An analysis project that uses IBM Cloud services to process and visualize earthquake data, highlighting cloud computing techniques for large-scale data analysis.",
+    "url": "https://github.com/vrajpatell/Cloud-Computing-IBM-cloud-Earthquake-Dataset"
+  },
+  {
+    "id": 5,
+    "name": "Comparsion-of-all-sorting-algorithms",
+    "description": "An in-depth study exploring various sorting algorithms, comparing their performance and efficiency under different conditions with detailed implementations.",
+    "url": "https://github.com/vrajpatell/Comparsion-of-all-sorting-algorithms"
+  },
+  {
+    "id": 6,
+    "name": "ConsultAddDjango",
+    "description": "A Django-based project that demonstrates core functionalities of the framework through task management, CRUD operations, and application structure.",
+    "url": "https://github.com/vrajpatell/ConsultAddDjango"
+  },
+  {
+    "id": 7,
+    "name": "CRUD-Nodejs-Express-mongoDB",
+    "description": "A full-stack project showcasing CRUD operations using Node.js, Express, and MongoDB, and demonstrating REST API best practices.",
+    "url": "https://github.com/vrajpatell/CRUD-Nodejs-Express-mongoDB"
+  },
+  {
+    "id": 8,
+    "name": "CRUD_Product_details_Nodejs_MongoDB",
+    "description": "A web application for managing product details using Node.js, Express, and MongoDB, focusing on smooth data management via RESTful API methods.",
+    "url": "https://github.com/vrajpatell/CRUD_Product_details_Nodejs_MongoDB"
+  },
+  {
+    "id": 9,
+    "name": "Data-Visualization-using-javascript-and-python-flask",
+    "description": "A hybrid project combining JavaScript and Python Flask to create dynamic and interactive visualizations from cloud-hosted data.",
+    "url": "https://github.com/vrajpatell/Data-Visualization-using-javascript-and-python-flask"
+  },
+  {
+    "id": 10,
+    "name": "demo.py",
+    "description": "A demonstration Python script that showcases a variety of programming techniques and fundamental programming concepts.",
+    "url": "https://github.com/vrajpatell/demo.py"
+  },
+  {
+    "id": 11,
+    "name": "Firebase-Facebook-Google-Email-Authentication",
+    "description": "A project that integrates Firebase authentication with social logins like Facebook and Google, providing a unified sign-in experience along with email authentication.",
+    "url": "https://github.com/vrajpatell/Firebase-Facebook-Google-Email-Authentication"
+  },
+  {
+    "id": 12,
+    "name": "FlaskSteganography",
+    "description": "A Python Flask project that employs steganography techniques to hide and retrieve messages within images, demonstrating secure data embedding.",
+    "url": "https://github.com/vrajpatell/FlaskSteganography"
+  },
+  {
+    "id": 13,
+    "name": "Huffman-Code-With-MinHeap-C",
+    "description": "An implementation of Huffman coding using a min-heap in C, aimed at demonstrating efficient data compression techniques.",
+    "url": "https://github.com/vrajpatell/Huffman-Code-With-MinHeap-C"
+  },
+  {
+    "id": 14,
+    "name": "Insertion-sort-in-C-language",
+    "description": "A C language implementation of the Insertion Sort algorithm that walks through the step-by-step process of sorting an array.",
+    "url": "https://github.com/vrajpatell/Insertion-sort-in-C-language"
+  },
+  {
+    "id": 15,
+    "name": "IntegerToRoman",
+    "description": "A utility project that converts integers to Roman numerals, highlighting a simple yet effective approach to numeral conversion algorithms.",
+    "url": "https://github.com/vrajpatell/IntegerToRoman"
+  },
+  {
+    "id": 16,
+    "name": "K-Mean-clustering-Python-Flask",
+    "description": "A machine learning project that performs K-Means clustering on a dataset using Python Flask, deployed on AWS to demonstrate cloud-based data processing.",
+    "url": "https://github.com/vrajpatell/K-Mean-clustering-Python-Flask"
+  },
+  {
+    "id": 17,
+    "name": "Mandelbrot-Set-with-Parallel-Programming-Using-OpenMP",
+    "description": "A computational project that renders the Mandelbrot Set using OpenMP for parallel processing, reducing computation time via effective parallelism.",
+    "url": "https://github.com/vrajpatell/Mandelbrot-Set-with-Parallel-Programming-Using-OpenMP"
+  },
+  {
+    "id": 18,
+    "name": "Monte-Carlo-Implementation-Using-OpenMP-in-Parallel-Programming",
+    "description": "An implementation of Monte Carlo simulation using OpenMP to leverage parallel computing, thereby improving simulation efficiency and speed.",
+    "url": "https://github.com/vrajpatell/Monte-Carlo-Implementation-Using-OpenMP-in-Parallel-Programming"
+  },
+  {
+    "id": 19,
+    "name": "Object-oriented-concepts-node",
+    "description": "A Node.js project that demonstrates fundamental object-oriented programming concepts such as inheritance, encapsulation, and polymorphism.",
+    "url": "https://github.com/vrajpatell/Object-oriented-concepts-node"
+  },
+  {
+    "id": 20,
+    "name": "Observer-Pattern-Software-Pattern",
+    "description": "An implementation of the Observer design pattern, showcasing event-driven programming techniques to manage dynamic data updates.",
+    "url": "https://github.com/vrajpatell/Observer-Pattern-Software-Pattern"
+  },
+  {
+    "id": 21,
+    "name": "Online-Advising-RPC-MASTER",
+    "description": "An online advising platform built using RPC architecture that facilitates efficient interactions between students and advisors.",
+    "url": "https://github.com/vrajpatell/Online-Advising-RPC-MASTER"
+  },
+  {
+    "id": 22,
+    "name": "PostFix-expression-using-Stack-implemented-using-Queue",
+    "description": "A project that evaluates postfix expressions using a combination of stack and queue data structures to illustrate algorithmic problem solving.",
+    "url": "https://github.com/vrajpatell/PostFix-expression-using-Stack-implemented-using-Queue"
+  },
+  {
+    "id": 23,
+    "name": "Python_Assignments_Vraj",
+    "description": "A curated collection of Python assignments that cover a wide range of programming concepts, problems, and solutions.",
+    "url": "https://github.com/vrajpatell/Python_Assignments_Vraj"
+  },
+  {
+    "id": 24,
+    "name": "Quick-sort-implementation-in-Parallel-programming-with-OpenMP",
+    "description": "An implementation of the Quick Sort algorithm optimized for parallel execution using OpenMP to improve sorting speed and efficiency.",
+    "url": "https://github.com/vrajpatell/Quick-sort-implementation-in-Parallel-programming-with-OpenMP"
+  },
+  {
+    "id": 25,
+    "name": "State-Patterns-ATM-Systems",
+    "description": "A project demonstrating the application of state patterns to simulate ATM system operations and streamline state management in software design.",
+    "url": "https://github.com/vrajpatell/State-Patterns-ATM-Systems"
+  },
+  {
+    "id": 26,
+    "name": "Task",
+    "description": "A series of fundamental Python tasks developed as part of the ConsultAdd course, covering basic programming principles and practical exercises.",
+    "url": "https://github.com/vrajpatell/Task"
+  },
+  {
+    "id": 27,
+    "name": "Tree-Sum-Parallel-Programming",
+    "description": "A project focused on calculating the sum of tree data structures using parallel programming techniques to optimize computational performance.",
+    "url": "https://github.com/vrajpatell/Tree-Sum-Parallel-Programming"
+  },
+  {
+    "id": 28,
+    "name": "vrajpatell",
+    "description": "A personal repository containing a variety of scripts, experiments, and projects that showcase my ongoing work, explorations, and coding interests.",
+    "url": "https://github.com/vrajpatell/vrajpatell"
+  },
+  {
+    "id": 29,
+    "name": "webpage-to-pdf-file-download",
+    "description": "A Python script that automates the process of converting web pages to PDF files, facilitating content archiving and automated document generation.",
+    "url": "https://github.com/vrajpatell/webpage-to-pdf-file-download"
+  }
+]
