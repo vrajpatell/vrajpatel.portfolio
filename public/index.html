@@ -1,14 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link rel="stylesheet" href="%PUBLIC_URL%/styles.css">
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vraj Patel's Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#experience">Work Experience</a></li>
+        <li><a href="#projects">GitHub Projects</a></li>
+        <li><a href="resume.html" target="_blank">Resume</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h1>Welcome to My Portfolio</h1>
+    <p>
+      Hello! I am Vraj Patel, a Software Engineer passionate about developing innovative solutions and leveraging advanced technologies.
+    </p>
+  </section>
+
+  <section id="experience">
+    <h2>Selected Work Experience</h2>
+    <!-- Work experience content goes here -->
+  </section>
+
+  <section id="projects">
+    <h2>GitHub Projects</h2>
+    <!-- This container will be populated with all public repositories dynamically -->
+    <div id="projects-container">
+      <p>Loading projects...</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: vrajpatel1995@gmail.com</p>
+    <p>Location: Scottsdale, Arizona, 85260, USA</p>
+    <p>Phone: 469-245-7484</p>
+    <p>
+      LinkedIn:
+      <a href="https://linkedin.com/in/vrajpatell0712/" target="_blank">linkedin.com/in/vrajpatell0712/</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Vraj Patel</p>
+  </footer>
+
+  <script src="dynamicProjects.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
