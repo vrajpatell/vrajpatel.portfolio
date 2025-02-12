@@ -9,49 +9,76 @@
 <body>
   <header>
     <nav>
-      <ul>
+      <ul class="nav-links">
         <li><a href="#home">Home</a></li>
         <li><a href="#experience">Work Experience</a></li>
         <li><a href="#projects">GitHub Projects</a></li>
         <li><a href="resume.html" target="_blank">Resume</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
+      <button id="dark-mode-toggle" class="toggle-btn">Toggle Dark Mode</button>
     </nav>
   </header>
 
-  <section id="home">
-    <h1>Welcome to My Portfolio</h1>
-    <p>
-      Hello! I am Vraj Patel, a Software Engineer passionate about developing innovative solutions and leveraging advanced technologies.
-    </p>
-  </section>
-
-  <section id="experience">
-    <h2>Selected Work Experience</h2>
-    <!-- Work experience content goes here -->
-  </section>
-
-  <section id="projects">
-    <h2>GitHub Projects</h2>
-    <!-- This container will be populated with all public repositories dynamically -->
-    <div id="projects-container">
-      <p>Loading projects...</p>
+  <section id="home" class="section">
+    <div class="container">
+      <h1>Welcome to My Portfolio</h1>
+      <p>
+        Hello! I am Vraj Patel, a Software Engineer passionate about developing innovative solutions and leveraging advanced technologies.
+      </p>
     </div>
   </section>
 
-  <section id="contact">
-    <h2>Contact Me</h2>
-    <p>Email: vrajpatel1995@gmail.com</p>
-    <p>Location: Scottsdale, Arizona, 85260, USA</p>
-    <p>Phone: 469-245-7484</p>
-    <p>
-      LinkedIn:
-      <a href="https://linkedin.com/in/vrajpatell0712/" target="_blank">linkedin.com/in/vrajpatell0712/</a>
-    </p>
+  <section id="experience" class="section">
+    <div class="container">
+      <h2>Selected Work Experience</h2>
+      <!-- Include your work experience details as needed -->
+      <article>
+        <h3>AI Software Engineer | CVS Health</h3>
+        <p>Scottsdale, AZ | Aug 2024 – Present</p>
+        <ul>
+          <li>Developed containerized microservices for Office document transformations.</li>
+          <li>Architected streaming pipelines with Apache Kafka and Google Cloud Storage.</li>
+          <li>Enhanced NLP capabilities to improve unstructured data processing.</li>
+        </ul>
+      </article>
+      <article>
+        <h3>Software Development Engineer | Warner Bros Discovery</h3>
+        <p>Seattle, WA | Oct 2021 – Jul 2023</p>
+        <ul>
+          <li>Led a large-scale content migration project using Kubernetes and AWS Lambda.</li>
+          <li>Optimized metadata delivery, reducing execution time by 20%.</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <section id="projects" class="section">
+    <div class="container">
+      <h2>GitHub Projects</h2>
+      <div id="projects-container">
+        <p>Loading projects...</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="section">
+    <div class="container">
+      <h2>Contact Me</h2>
+      <p>Email: vrajpatel1995@gmail.com</p>
+      <p>Location: Scottsdale, Arizona, 85260, USA</p>
+      <p>Phone: 469-245-7484</p>
+      <p>
+        LinkedIn:
+        <a href="https://linkedin.com/in/vrajpatell0712/" target="_blank">linkedin.com/in/vrajpatell0712/</a>
+      </p>
+    </div>
   </section>
 
   <footer>
-    <p>&copy; 2024 Vraj Patel</p>
+    <div class="container">
+      <p>&copy; 2024 Vraj Patel</p>
+    </div>
   </footer>
 
   <script src="dynamicProjects.js"></script>
